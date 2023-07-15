@@ -7,6 +7,10 @@ const countries = [
     'Delhi',
     'Mumbai'
   ]},
+   {name:'India', value:'IN', cities:[
+    'Delhi',
+    'Goa'
+  ]},
   {name:'Pak', value:'PK', cities:[
     'Lahore',
     'Karanchi'
